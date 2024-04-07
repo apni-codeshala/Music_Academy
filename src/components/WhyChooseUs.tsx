@@ -1,4 +1,5 @@
-"use client";
+'use client';
+import React, { useState } from "react";
 import { StickyScroll } from "./ui/sticky-scroll-reveal";
 
 const musicSchoolContent = [
