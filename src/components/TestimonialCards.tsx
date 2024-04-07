@@ -1,4 +1,5 @@
-'use client'
+'use client';
+import React, { useState } from "react";
 import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
 const musicSchoolTestimonials = [
